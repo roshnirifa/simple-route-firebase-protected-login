@@ -1,0 +1,8 @@
+.register-container {
+    text-align: center;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    border: 2px solid gray;
+    margin-top: 20px;
+}
